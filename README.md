@@ -1,2 +1,1 @@
 # mylodash
-a library 
