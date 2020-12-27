@@ -1,3 +1,0 @@
-# mylodash
-
-a library
